@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://hyuoou.github.io"
 title        = "Alicearis.me"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
