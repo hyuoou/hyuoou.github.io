@@ -1,3 +1,43 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl      = "localhost"
+title        = "Alicearis.me"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+pagination.pagerSize     = 10
+
+[params]
+  # Subtitle for home
+  homeSubtitle = "rxrxr/hyuoou/alicearis"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage"
+  keywords = "homepage"
+  images = [""]
+
+  [params.logo]
+    logoText = "Alicearis"
+    logoHomeLink = "/"
+
+[[params.social]]
+  name = "X"
+  url = "https://x.com/hyuoou"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/hyuoou"
+
+[[params.social]]
+  name = "misskey"
+  url = "https://misskey.io/@rxrxr"
+
+[[params.social]]
+  name = "misskey"
+  url = "https://submarin.online/@hyuoou"
