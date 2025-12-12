@@ -1,6 +1,6 @@
 +++
 title = "最初の記事"
-date = "2025-12-12"
+date = "2025-12-12T12:00:00+09:00"
 draft = false
 description = "最初の記事"
 tags = ["Tag1", "Tag2"]
