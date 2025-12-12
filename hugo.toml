@@ -26,6 +26,12 @@ pagination.pagerSize     = 10
     logoText = "Alicearis"
     logoHomeLink = "/"
 
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog"
+
+# Social accounts
 [[params.social]]
   name = "X"
   url = "https://x.com/hyuoou"
