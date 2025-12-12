@@ -18,13 +18,17 @@ pagination.pagerSize     = 10
   enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage"
-  keywords = "homepage"
+  description = "My new homepage and blog"
+  keywords = "homepage, blog"
   images = [""]
 
   [params.logo]
     logoText = "Alicearis"
     logoHomeLink = "/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [[menu.main]]
   identifier = "blog"
