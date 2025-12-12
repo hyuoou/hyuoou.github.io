@@ -37,6 +37,11 @@ pagination.pagerSize     = 10
   name = "Blog"
   url = "/blog"
 
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+
 # Social accounts
 [[params.social]]
   name = "X"
