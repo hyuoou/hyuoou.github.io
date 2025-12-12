@@ -23,7 +23,7 @@ rxrxr/hyuoou/Alicearis
 ### Laptop
 | Component | Model/Specs    |
 |-----------|----------------|
-| Mode      | MacBook Air M4 |
+| Model     | MacBook Air M4 |
 | CPU       | Apple M4       |
 | RAM       | 16GB           |
 | Strage    | 500GB SSD      |
