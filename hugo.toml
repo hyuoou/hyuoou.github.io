@@ -1,6 +1,7 @@
 baseurl      = "https://alicearis.me"
 title        = "Alicearis.me"
 languageCode = "ja"
+copyright = "© 2025 Alicearis"
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 theme        = "hello-friend-ng"
@@ -27,6 +28,14 @@ pagination.pagerSize     = 10
   [params.logo]
     logoText = "Alicearis"
     logoHomeLink = "/"
+
+  [params.footer]
+    rss = false
+    copyright = true
+    bottomText = [
+      "Powered by <a href='http://gohugo.io'>Hugo</a>",
+      "Theme by <a href='https://github.com/rhazdon/hugo-theme-hello-friend-ng/'>Hello Friend NG</a>"
+    ]
 
 [taxonomies]
   category = "categories"
