@@ -9,7 +9,7 @@ pagination.pagerSize     = 10
 
 [params]
   # Subtitle for home
-  homeSubtitle = "rxrxr/hyuoou/alicearis"
+  homeSubtitle = "rxrxr/hyuoou/Alicearis"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
